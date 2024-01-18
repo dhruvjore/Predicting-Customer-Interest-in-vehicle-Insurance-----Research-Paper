@@ -1,4 +1,4 @@
-# Predicting-Customer-Interest-in-vehicle-Insurance-----Research-Paper
+# Predicting Customer Interest in Vehicle Insurance: A Study of Health Insurance Policyholders
 
 ABSTRACT :This research paper aims to predict customer interest in purchasing vehicle insurance from a health insurance
 company using data science techniques. The study uses data collected from health insurance holders of the company and
